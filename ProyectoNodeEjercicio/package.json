@@ -1,0 +1,12 @@
+{
+  "name": "proyectonodeejercicio",
+  "version": "1.0.0",
+  "description": "Ejercicio Del primer modulo de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Federico Gomez",
+  "license": "ISC"
+}
